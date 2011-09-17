@@ -16,7 +16,7 @@ and run::
 
     bin/vendors install
 
-Add the following lines in you ``autoload.php`` file::
+Add the following lines in you ``autoload.php`` file:
 
     $loader->registerNamespaces(array(
         // ...
@@ -32,7 +32,7 @@ Add the following lines in you ``autoload.php`` file::
 Configuration
 -------------
 
-Add you Amazon configuration to the config.yml file::
+Add you Amazon configuration to the config.yml file:
 
     amazon:
         key:        <your-key>
