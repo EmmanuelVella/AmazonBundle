@@ -4,7 +4,7 @@ AmazonBundle
 Installation
 ------------
 
-Add the dependent bundle to the ``vendor/bundles`` directory. Add the following lines to the ``deps`` file::
+Add the dependent bundle to the ``vendor/bundles`` directory. Add the following lines to the ``deps`` file:
 
     [aws-sdk-for-php]
         git=https://github.com/amazonwebservices/aws-sdk-for-php.git
