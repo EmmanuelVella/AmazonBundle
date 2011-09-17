@@ -26,7 +26,7 @@ Add the following lines in you ``autoload.php`` file:
     // ...
 
     // Amazon Web Services
-    require_once __DIR__.'/../vendor/amazonwebservices/sdk.class.php';
+    require_once __DIR__.'/../vendor/aws-sdk-for-php/sdk.class.php';
     require_once __DIR__.'/../vendor/cloudfusion/services/pas.class.php';
 
 Configuration
